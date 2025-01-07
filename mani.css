@@ -18,13 +18,17 @@ color: rgb(102, 25, 12);
 
 }
 
-text {
+.text {
 color: rgb(58, 22, 22);
 
 }
 
-text-2 {
+.text-2 {
 color: rgb(80, 4, 4);
 font-style: italic;
 }
 
+
+.lorem {
+    color: honeydew;
+}
