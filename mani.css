@@ -1,0 +1,30 @@
+
+body{
+background-image: url('./556отр.jfif');
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+
+
+h1 {
+color: rgb(180, 92, 106);
+text-align: center;
+}
+
+p {
+color: rgb(102, 25, 12);
+
+}
+
+text {
+color: rgb(58, 22, 22);
+
+}
+
+text-2 {
+color: rgb(80, 4, 4);
+font-style: italic;
+}
+
